@@ -1,0 +1,7 @@
+To use the code, download the files "password_security.py", "thousandpassword.txt" and "dictionary.txt"
+Make sure to put the three in the smae folder.
+Then, open a terminal, and navigate to the folder where those three are. Do this by copying the path from the file explorer.
+Write the code "python password_security.py" for windows and "python3 password_security.py" for mac. 
+Follow the instructions on the terminal!
+
+Warning: When you are asked to input the password, no letters will appear on screen to make it safer. You are indeed writing though, don't worry!
